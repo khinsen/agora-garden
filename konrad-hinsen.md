@@ -1,7 +1,7 @@
 # Konrad Hinsen
 
 -   a [[person]]
-    -   \#go http://khinsen.net
+    -   #go http://khinsen.net
     -   [[Fediverse]] https://scholar.social/@khinsen
     -   [[Twitter]] https://twitter.com/khinsen
     -   [[Matrix]] @khinsen:matrix.org
