@@ -2,5 +2,5 @@
 
 Open Researcher and Contributor ID
 
-\#go http://orcid.org
+#go http://orcid.org
 
