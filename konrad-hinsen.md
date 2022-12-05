@@ -1,4 +1,4 @@
-# Konrad Hinsen
+# [Konrad Hinsen](http://khinsen.net/)
 
 -   a [[person]]
     -   #go http://khinsen.net
