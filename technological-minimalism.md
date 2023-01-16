@@ -1,0 +1,6 @@
+-   a [[concept]]
+    - [[minimalism]] applied to [[technology]]
+    - a [[strategy]] for achieving [[technological sovereignty]] via [[simplicity]]
+    - a [[strategy]] for achieving better [[energy efficiency]] by eliminating unnecessary technology layers
+    - a [[strategy]] for dedicating less [[attention]] to the use of [[technology]]
+    - special case: [[digital minimalism]]
